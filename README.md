@@ -47,26 +47,13 @@ Saarthi/
 │── README.md
 ```
 
-
 ## 🛠️ Installation  
 
 ### Prerequisites:
 - Python 3.x
 - SpeechRecognition
 - pyttsx3 (Text-to-Speech)
-- Flask (For Frontend UI) 
-
-### Setup:  
-
-1. Clone the repository:  
-   ```git clone https://github.com/themeetshah/saarthi-ai-assistant.git```  
-   ```cd saarthi-ai-assistant```  
-
-2. Install dependencies:  
-    ```pip install -r requirements.txt```  
-
-3. Run the application:  
-    ```python app.py```  
+- Flask (For Frontend UI)  
 
 ## 📌 Technologies Used  
 
@@ -74,10 +61,4 @@ Saarthi/
 - **Speech & Audio**: SpeechRecognition, pyttsx3  
 - **Web Framework**: Flask
 
-## 🤝 Contribute to Saarthi  
-
-Feel free to contribute to Saarthi by creating [**pull requests**](https://github.com/themeetshah/saarthi-ai-assistant/pulls) or [submitting issues](https://github.com/themeetshah/saarthi-ai-assistant/issues).  
-
----  
-
-### 👨‍💻 Developed by [**Meet Shah**](https://github.com/themeetshah)  
+### 👨‍💻 Developed by [**Kahan Mistry**]  
