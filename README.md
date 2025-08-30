@@ -2,9 +2,6 @@
 
 **Saarthi** is a **Python-based AI virtual assistant** that provides voice-enabled functionalities such as web search, application control, reminders, media playback, and more. It integrates **speech recognition**, **text-to-speech**, and various automation features for an interactive AI experience.  
 
-## 🎥 Demo  
-- Preview the project [here](https://www.linkedin.com/posts/themeetshahh_python-ai-voiceassistant-activity-7306307143207448577-YtpE).  
-
 ## 🚀 Features  
 
 - ### 🗣️ Speech Recognition & Response  
